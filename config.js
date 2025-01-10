@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'dice',
+			icon: 'school',
 			id: '1',
 			links: [
 				{
-					name: 'r/EDH',
-					link: 'https://www.reddit.com/r/EDH/',
+					name: 'St-Clair',
+					link: 'https://my.stclaircollege.ca/sites/student/Pages/Home.aspx',
 				},
 				{
-					name: 'EDHRec',
-					link: 'https://edhrec.com/',
+					name: 'Blackboard',
+					link: 'https://lms.stclaircollege.ca/ultra/stream',
 				},
 				{
-					name: 'Scryfall',
-					link: 'https://scryfall.com/',
+					name: 'Mail',
+					link: 'https://outlook.office.com/mail/',
 				},
 				{
-					name: 'Moxfield',
-					link: 'https://moxfield.com/',
+					name: 'Timetable',
+					link: 'https://cssso.stclaircollege.ca/psp/ps/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_SCHD_W.GBL?FolderPath=PORTAL_ROOT_OBJECT.CO_EMPLOYEE_SELF_SERVICE.HCCC_ENROLLMENT.HC_SSR_SSENRL_SCHD_W_GBL&IsFolder=false&IgnoreParamTempl=FolderPath,IsFolder',
 				},
 			],
 		},
