@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'dice',
+			icon: 'money',
 			id: '1',
 			links: [
 				{
